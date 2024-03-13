@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author-dhananjay kr.
+Author-dhananjay (shri ram college)
+
